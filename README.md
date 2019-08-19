@@ -9,3 +9,10 @@ Qusetions++教师版正式版下载：暂无
 Qusetions++学生版技术预览版快照下载：暂无
 
 Qusetions++教师版技术预览版快照下载：<a href="https://github.com/UtopiaXC/QuestionsPlusPlus/blob/master/app-release.apk?raw=true">1.0.1-beta001ba1</a>
+
+<h2>说明:</h2>
+
+本应用为闭源应用，本Git仅提供APK下载以及更新检查。
+
+
+©2019 Everyday Questions Team
