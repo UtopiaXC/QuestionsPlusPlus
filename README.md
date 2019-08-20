@@ -12,7 +12,7 @@ Qusetions++教师版技术预览版快照下载：<a href="https://github.com/Ut
 
 <h2>说明:</h2>
 
-本应用为闭源应用，本Git仅提供APK下载以及更新检查。
+本Git仅提供APK下载以及更新检查。
 
 
 ©2019 Everyday Questions Team
